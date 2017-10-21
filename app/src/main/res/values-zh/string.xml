@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">健康生活</string>
+    <string name="quiz_slogan">品质生活</string>
+    <string name="select_quiz">进行测试</string>
+    <string name="syaife">健康生活 | 登陆</string>
+    <string name="awadsdzx">健康生活 | 注册</string>
+    <string name="QUIZ_CATEGORY_NAME">测试总览</string>
+    <string name="switch_language">更改语言</string>
+    <string name="english">英语</string>
+    <string name="chinese">中文</string>
+    <string name="quiz_instruction">测试概要</string>
+    <string name="your_best_score">历史最高成绩</string>
+    <string name="quiz_user_score_table">历史最高成绩</string>
+    <string name="total_best_score">93%</string>
+    <string name="quiz_category">测试总览</string>
+    <string name="sports">运动总览</string>
+    <string name="question_title">题目</string>
+    <string name="question">世界上最高的山</string>
+    <string name="everest">珠穆朗玛峰</string>
+    <string name="next_button">下一题</string>
+    <string name="prev_button">上一题</string>
+    <string name="pass"></string>
+    <string name="fail">FAIL</string>
+    <string name="back">上一题</string>
+    <string name="quiz_result">测试结果</string>
+    <string name="retake_quiz">测试主页</string>
+    <string name="view_result">查看答案</string>
+    <string name="question_num">12 题</string>
+    <string name="your_answer">你的回答</string>
+    <string name="correct_answer">正确答案</string>
+    <string name="quiz_result_analysis">测试结果分析</string>
+    <string name="no_quiz_in_category">测试结束，开始的新测试</string>
+    <string name="home_button">测试主页</string>
+    <string name="register">注册</string>
+    <string name="sign_in">登录</string>
+    <string name="email">邮箱</string>
+    <string name="email_hint">some@one.com</string>
+    <string name="password">密码</string>
+    <string name="title_activity_login">登录</string>
+
+    <!-- Text responses -->
+    <string name="less_than_25">生活给你带来巨大的痛苦。大部分时间你都很困惑。你没有几个朋友和人民
+你和你交往，可能和你有着同样的世界观。你的注意力主要集中在你无法控制的事情上
+影响，因此你会感到不断的不知所措和失去控制。到目前为止，你把生活看成是一种失望
+你允许外部的力量支配你。这就是我们所说的第三级生活。</string>
+    <string name="less_than_50">你经常会发现生活令人困惑。你觉得失去了控制，然后问自己“为什么是我?”“世界是可怕的
+对你来说，你最可能因为你糟糕的成绩而责备他人。你倾向于不冒险，呆在自己的舒适区。
+改变对你来说是很困难的，你想要在2级生活，有更多的控制，但你倾向于在其中
+第三级区域让你感到沮丧.</string>
+    <string name="less_than_75">你的生活中有好坏参半的结果，想知道这是不是运气。你有时想知道你在做什么
+你错了，你怎么能扭转局面。你可能会对世界上的人和事感到失望。你愿意接受
+有些风险需要改变，只要你能看到好处。你在第2级工作，但当事情变得混乱或令人沮丧的时候
+你离题3级.</string>
+    <string name="less_than_100">你相信你的现实取决于你自己。你要对你的世界负责。
+你愿意学习新的做事方法，把挑战视为学习的机会。你享受生活，享受生活带来的一切。
+你可以轻松地看待自己，你生活在一段时间的大部分时间里，你会意识到你在选择不去的时候。</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">邮箱</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登录或注册</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="error_invalid_email">邮箱地址错误</string>
+    <string name="error_invalid_password">密码过短</string>
+    <string name="error_incorrect_password">密码错误</string>
+    <string name="error_field_required">已发出请求</string>
+    <string name="permission_rationale">"需要邮箱验证."
+    </string>
+    <string name="cont_guest">游客身份</string>
+    <string name="prompt_name">姓名</string>
+    <string name="welcome">欢迎!</string>
+    <string name="name_hint">姓名</string>
+    <string name="website">进入网页</string>
+    <string name="view_users">查看用户</string>
+    <string name="logout">登出</string>
+    <string name="hint_password">密码</string>
+    <string name="hint_email">邮箱</string>
+    <string name="hint_name">姓名</string>
+</resources>
